@@ -1,0 +1,2 @@
+# kodluyoruzilkrepo
+eğitim amaçlıdır.
